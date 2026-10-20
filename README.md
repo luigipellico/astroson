@@ -1,2 +1,0 @@
-# astroson
-Astrosonification software
